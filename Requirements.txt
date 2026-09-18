@@ -1,6 +1,0 @@
-streamlit
-pandas
-plotly
-firebase-admin
-requests
-twilio
